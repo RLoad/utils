@@ -2,7 +2,7 @@
 #define __UTILS_H__
 
 #include "ros/ros.h"
-#include "Eigen/Eigen"
+#include <eigen3/Eigen>
 
 template<typename T = float>
 class Utils 
